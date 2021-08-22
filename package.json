@@ -14,7 +14,7 @@
       "yarn lint --fix",
       "yarn test --findRelatedTests --bail"
     ],
-    "*.js": "eslint --cache --fix"
+    "*.{js,jsx,ts,tsx}": "eslint --cache --fix"
   },
   "dependencies": {
     "next": "11.1.0",
