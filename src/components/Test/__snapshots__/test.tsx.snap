@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Test /> should render the heading 1`] = `
+<main
+  class="styles__wrapper-sc-unvff0-0 kimlBj"
+>
+  <h1
+    class="styles__title-sc-unvff0-1 bCsivh"
+  >
+    Next.js boilerplate
+  </h1>
+  <h2
+    class="styles__description-sc-unvff0-2 iKoZew"
+  >
+    This is a component test.
+  </h2>
+</main>
+`
