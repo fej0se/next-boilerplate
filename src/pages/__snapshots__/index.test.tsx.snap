@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Test /> should render the heading 1`] = `
+.c0 {
+  background-color: #fefefe;
+  color: #000000;
+  width: 100%;
+  height: 100%;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c1 {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 4rem;
+}
+
+.c2 {
+  padding-top: 2rem;
+  margin: 0;
+  line-height: 1.15;
+  font-size: 2rem;
+}
+
+<main
+  class="c0"
+>
+  <h1
+    class="c1"
+  >
+    Next.js boilerplate
+  </h1>
+  <h2
+    class="c2"
+  >
+    This is a component test.
+  </h2>
+</main>
+`
